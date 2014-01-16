@@ -1,0 +1,7 @@
+#.settings/
+#.classpath
+#.project
+*/target
+*/jetty-env.xml
+/target
+/bin
