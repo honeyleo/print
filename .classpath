@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="conf"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/fastjson-1.1.33.jar"/>
+	<classpathentry kind="lib" path="lib/jacob.jar" sourcepath="C:/Documents and Settings/Administrator/桌面/jacob-1.17/src">
+		<attributes>
+			<attribute name="source_encoding" value="UTF-8"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/mina-core-2.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar" sourcepath="C:/Documents and Settings/Administrator/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.6.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
